@@ -1,0 +1,1 @@
+class is a set of objects for e.g., car which contain multiple objects like a doors,tyre
